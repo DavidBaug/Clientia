@@ -4,3 +4,5 @@ dist/
 .idea/
 
 GestorSeguros.spec
+config_visibilidad.json
+seguros.db
